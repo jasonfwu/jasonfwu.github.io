@@ -132,7 +132,7 @@
 
 #introbox {padding-bottom: 84px; }
 
-#box {padding-bottom: 70px; }
+#box {padding-bottom: 66px; }
 
 #firstboxtext {padding-top: 20px; }
 
@@ -142,7 +142,7 @@ hr {
     border: 0px;
 }
 
-body { background-color: #fff; padding: 50px; font-family: 'Lato', sans-serif; font: 14px/1.5 "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #666666; font-weight: 400; }
+body { background-color: #fff; padding: 50px; font-family: 'Lato', sans-serif; font: 15px/1.5 "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #666666; font-weight: 400; }
 
 h1, h2, h3, h4, h5, h6 { color: #262626; margin: 0 0 20px; }
 
