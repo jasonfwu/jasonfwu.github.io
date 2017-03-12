@@ -132,7 +132,7 @@
 
 #introbox {padding-bottom: 84px; }
 
-#box {padding-bottom: 75px; }
+#box {padding-bottom: 65px; }
 
 #firstboxtext {padding-top: 20px; }
 
@@ -142,7 +142,7 @@ hr {
     border: 0px;
 }
 
-body { background-color: #fff; padding: 50px; font-family: 'Lato', sans-serif; font: 15px/1.5 "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #757575; font-weight: 400; }
+body { background-color: #fff; padding: 130px; font-family: 'Lato', sans-serif; font: 15px/1.5 "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #757575; font-weight: 400; }
 
 h1, h2, h3, h4, h5, h6 { color: #333333; margin: 0 0 20px; }
 
@@ -168,7 +168,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 860px; margin: 0 auto; }
+.wrapper { width: 900px; margin: 0 auto; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -214,7 +214,7 @@ small { font-size: 11px; }
 
 hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
-footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-smoothing: subpixel-antialiased; }
+footer { width: 270px; float: left; position: fixed; bottom: 112px; -webkit-font-smoothing: subpixel-antialiased; }
 
 @media print, screen and (max-width: 960px) { div.wrapper { width: auto; margin: 0; }
   header, section, footer { float: none; position: static; width: auto; }
