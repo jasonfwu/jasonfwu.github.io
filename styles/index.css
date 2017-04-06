@@ -128,8 +128,6 @@
 
 .highlight { background-color: #f8f8f8; }
 
-#wrapper {}
-
 #intro {color: #FD6365; }
 
 #introbox {padding-bottom: 84px; }
@@ -137,6 +135,8 @@
 #box {padding-bottom: 60px; }
 
 #firstboxtext {padding-top: 20px; }
+
+#myname {padding-bottom: 0px; }
 
 hr {
     height: 1px;
