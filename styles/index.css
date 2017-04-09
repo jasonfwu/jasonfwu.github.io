@@ -138,13 +138,15 @@
 
 #myname {padding-bottom: 0px; }
 
+#sectiontitle {font-weight: 400; }
+
 hr {
     height: 1px;
     background-color: #e9e9e9;
     border: 0px;
 }
 
-body { background-color: #fff; padding: 135px; font-family: 'Helvetica Neue', sans-serif; font: 14px/1.5 "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #373737; font-weight: 400; line-height: 22px; }
+body { background-color: #fff; padding: 165px; font-family: 'Helvetica Neue', sans-serif; font: 13px/1.5 "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #333333; font-weight: 400; line-height: 22px; }
 
 h1, h2, h3, h4, h5, h6 { color: #333333; margin: 0 0 20px; }
 
@@ -162,7 +164,9 @@ h3 { font-size: 20px; line-height: .1; margin-bottom: 0.1; letter-spacing: -.9px
 
 .Description { margin-bottom: 35px; }
 
-.MyName { margin-bottom: 12px; }
+.Hi {font-weight: 400; }
+
+.MyName { margin-bottom: 12px; font-weight: 400; }
 
 .view { font-weight: bolder; margin-bottom: 2px; }
 
@@ -218,7 +222,7 @@ header ul li + li + li { border-right: none; width: 89px; }
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: 550px; float: right; padding-bottom: 138px; margin-top: 149px; }
+section { width: 550px; float: right; padding-bottom: 86px; margin-top: 188px; }
 
 small { font-size: 11px; }
 
