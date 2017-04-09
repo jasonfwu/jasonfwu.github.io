@@ -130,7 +130,7 @@
 
 #introbox {padding-bottom: 84px; }
 
-#box {padding-bottom: 270px; }
+#box {padding-bottom: 285px; }
 
 #otherbox {padding-bottom: 50px; }
 
@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 { color: #333333; margin: 0 0 20px; }
 
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
-h1 { line-height: 1; padding-bottom: 18px; letter-spacing: -2px; margin-bottom: 50px; }
+h1 { line-height: 1; padding-bottom: 18px; letter-spacing: -2px; margin-bottom: 90px; }
 
 h2 { line-height: 1.3; }
 
@@ -162,7 +162,7 @@ h2 { color: #333333; font-size: 30px; letter-spacing: -1px; line-height: 28px; m
 
 h3 { font-size: 20px; line-height: .1; margin-bottom: 0.1; letter-spacing: -.9px }
 
-.Description { margin-bottom: 35px; }
+.Description { margin-bottom: 22.5px; }
 
 .Hi {font-weight: 400; }
 
