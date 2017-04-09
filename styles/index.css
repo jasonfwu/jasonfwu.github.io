@@ -222,7 +222,7 @@ header ul li + li + li { border-right: none; width: 89px; }
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: 550px; float: right; padding-bottom: 88px; margin-top: 188px; }
+section { width: 550px; float: right; padding-bottom: 100px; margin-top: 188px; }
 
 small { font-size: 11px; }
 
