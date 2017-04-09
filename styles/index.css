@@ -132,7 +132,7 @@
 
 #box {padding-bottom: 285px; }
 
-#otherbox {padding-bottom: 50px; }
+#otherbox {padding-bottom: 45px; }
 
 #firstboxtext {padding-top: 20px; }
 
@@ -162,7 +162,7 @@ h2 { color: #333333; font-size: 30px; letter-spacing: -1px; line-height: 28px; m
 
 h3 { font-size: 20px; line-height: .1; margin-bottom: 0.1; letter-spacing: -.9px }
 
-.Description { margin-bottom: 22.5px; }
+.Description { margin-bottom: 30px; }
 
 .Hi {font-weight: 400; }
 
@@ -222,7 +222,7 @@ header ul li + li + li { border-right: none; width: 89px; }
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: 550px; float: right; padding-bottom: 86px; margin-top: 188px; }
+section { width: 550px; float: right; padding-bottom: 78px; margin-top: 188px; }
 
 small { font-size: 11px; }
 
